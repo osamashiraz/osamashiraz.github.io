@@ -1,6 +1,9 @@
 # Shahs Computational Notebook
 ## Scratchspace for vignettes and recipes for various computational biology experiments
 
+## About Me:
+
+
 Table of content
 1. Stratification of single cells, population analysis, differential expression - single cell RNA sequencing meta analysis and data integration
 2. Cross platform Spatial Omics Data Analysis using R and Python
