@@ -23,4 +23,6 @@ Table of content
 6. Public Databases
    a. Hosting Multiomics Data on cbioportal
    b. Geo
-7. 
+7. Curation Efforts
+   a. Spatial/Single Cell Datasets
+   b. Tools for Spatial Omic Analysis
