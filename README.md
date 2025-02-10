@@ -24,3 +24,7 @@
 5. Curation Efforts
    1. Spatial/Single Cell Datasets
    2. Tools for Spatial Omic Analysis
+
+Website link to social, philosophical, historical lessons/thoughts/commentory:
+1. Steps/Parts of life - Masomana khel, zeenat ...
+2. Insipidational world leaders and Leadership qualities that changed the world
